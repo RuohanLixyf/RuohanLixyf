@@ -31,23 +31,6 @@ My research sits at the intersection of **transportation, human mobility, and da
 
 I'm particularly interested in understanding how incomplete and heterogeneous mobility observations can be transformed into useful representations of human movement.
 
-```text
-Mobility Observations
-        │
-        ▼
-  ┌───────────────┐
-  │ Trajectories  │
-  │   & Networks  │
-  └───────┬───────┘
-          │
-          ▼
-  Mobility Representations
-          │
-    ┌─────┼─────┐
-    ▼     ▼     ▼
-   OD    Trips  Activities
-```
-
 Some things I spend a lot of time thinking about:
 
 🛰️ **Human Mobility Data** — extracting meaningful movement information from large-scale and imperfect observations
@@ -114,49 +97,4 @@ Some things I spend a lot of time thinking about:
 
 `Mobility Representation` · `Machine Learning` · `Large-Scale Data Processing`
 
-</p>
-
----
-
-## 🛠️ Things I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,github,linux,vscode&perline=8" />
-</p>
-
-<p align="center">
-  Python · PyTorch · Spark · GIS · OpenStreetMap · Docker · Linux
-</p>
-
----
-
-## 📊 A little GitHub stuff
-
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=RuohanLixyf&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuohanLixyf&layout=compact&hide_border=true&langs_count=6" />
-</p>
-
----
-
-## 👋 Find me around the web
-
-<p align="center">
-  <a href="https://ruohanlixyf.github.io/">
-    <img src="https://img.shields.io/badge/Personal_Website-ruohanlixyf.github.io-555555?style=flat-square" />
-  </a>
-  &nbsp;
-  <a href="https://ruohanlixyf.github.io/novamatch/">
-    <img src="https://img.shields.io/badge/NovaMatch-Project_Website-555555?style=flat-square" />
-  </a>
-  &nbsp;
-  <a href="https://ruohanlixyf.github.io/Complete-Trip-Data-Explorer/explorer.html">
-    <img src="https://img.shields.io/badge/Complete_Trip-Data_Explorer-555555?style=flat-square" />
-  </a>
-</p>
-
-<p align="center">
-  <i>From observations to mobility representations.</i>
 </p>
