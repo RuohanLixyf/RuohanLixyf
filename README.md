@@ -1,6 +1,6 @@
 Hi, this is Ruohan Li! 👋
 
-I'm a Ph.D. researcher in **Civil & Environmental Engineering at Villanova University**, working with the **NovaMobility Lab**.
+I'm a Ph.D. Candidate in **Civil & Environmental Engineering at Villanova University**, working with the **NovaMobility Lab**.
 
 I work with mobility data — from messy GPS observations to trajectories, networks, and meaningful representations of how people move. 🚶‍♀️🚗🚌
 
@@ -42,59 +42,3 @@ Some things I spend a lot of time thinking about:
 🚦 **Transportation Networks** — translating mobility across different network representations
 
 ⚙️ **Scalable Mobility Computing** — building reproducible tools and pipelines for large mobility datasets
-
----
-
-# 🗺️ NovaMatch
-
-### Map matching made for human mobility data.
-
-**NovaMatch** is a map-matching framework and research tool for transforming GPS trajectories into network-constrained movement representations.
-
-<p align="center">
-  <a href="https://ruohanlixyf.github.io/novamatch/">
-    <img src="./assets/novamatch-demo.gif" width="85%" alt="NovaMatch Demo"/>
-  </a>
-</p>
-
-<p align="center">
-  GPS observations &nbsp; → &nbsp; Road network &nbsp; → &nbsp; Matched trajectory
-</p>
-
-<p align="center">
-  <a href="https://ruohanlixyf.github.io/novamatch/"><b>Explore NovaMatch →</b></a>
-</p>
-
----
-
-# 🚶 Complete Trip
-
-### From fragmented observations to complete multimodal journeys.
-
-**Complete Trip** provides reconstructed multimodal trip data and an interactive explorer for understanding human mobility beyond isolated trajectory segments.
-
-<p align="center">
-  <a href="https://ruohanlixyf.github.io/Complete-Trip-Data-Explorer/explorer.html">
-    <img src="./assets/complete-trip-demo.gif" width="85%" alt="Complete Trip Data Explorer"/>
-  </a>
-</p>
-
-<p align="center">
-  Observations &nbsp; → &nbsp; Trips &nbsp; → &nbsp; Journeys &nbsp; → &nbsp; Mobility
-</p>
-
-<p align="center">
-  <a href="https://ruohanlixyf.github.io/Complete-Trip-Data-Explorer/explorer.html"><b>Open the Data Explorer →</b></a>
-</p>
-
----
-
-## 🧠 Research Interests
-
-<p align="center">
-
-`Human Mobility` · `Trajectory Data` · `Map Matching` · `Transportation Networks`
-
-`Mobility Representation` · `Machine Learning` · `Large-Scale Data Processing`
-
-</p>
